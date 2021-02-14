@@ -1,4 +1,4 @@
-# 💻 Integration system - Rollout.io - React Native 
+# 💻 Integration system - Rollout.io / React Native 
 ## (Automation of Feature Flags - toggles)
 
 **Toggles:** Example code for implementing automated feature toggles, (feature flags), for better architecture and control of an application's functionality.
